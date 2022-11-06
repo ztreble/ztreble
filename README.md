@@ -7,6 +7,3 @@
 - 😘 My blog address is https://blog.csdn.net/treblez
 - 🌱 I’m currently learning Rust and TAPL.
 - 💞️ Welcome to communicate with me!
-
-
-[![Trebelz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trebelz)](https://github.com/Trebelz/github-readme-stats)
